@@ -52,18 +52,20 @@ ul {
 .studio-title {
   font-weight: 700;
   font-size: 56px;
-  line-height: 1.07143;
+  line-height: 1.07;
   letter-spacing: 0.02em;
   text-align: center;
   color: #fff;
 }
 .studio-btn {
-  background-color: #4d5ae5;
-  border: 1px solid #000;
-  border-radius: 4px;
-  padding: 16px 32px;
-  width: 168px;
-  height: 56px;
+  background-color: #404bbf;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.04em;
+  color: #fff;
+  font-family: "Roboto", sans-serif;
+  cursor: pointer;
 }
 .section-subtitle {
   font-weight: 500;
