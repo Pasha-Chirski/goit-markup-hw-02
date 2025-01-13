@@ -1,5 +1,7 @@
 body {
   font-family: "Roboto", sans-serif;
+  background-color: #ffffff;
+  color: #434455;
 }
 
 a {
@@ -58,14 +60,14 @@ ul {
   width: 168px;
   height: 56px;
 }
-.portfolio-subtitle {
+.section-subtitle {
   font-weight: 500;
   font-size: 20px;
   line-height: 1.2;
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
-.portfolio-item-text {
+.section-item-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
@@ -94,6 +96,29 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   text-align: center;
+  color: #434455;
+}
+
+.portfolio-titli {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+}
+.portfolio-subtitle {
+  font-weight: 500;
+  font-size: 20px;
+  line-height: 1.2;
+  letter-spacing: 0.02em;
+  color: #2e2f42;
+}
+.portfolio-item-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.5;
+  letter-spacing: 0.02em;
   color: #434455;
 }
 .footer-item-text {
