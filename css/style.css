@@ -93,7 +93,6 @@ ul {
   text-align: center;
   color: #2e2f42;
   text-transform: capitalize;
-  background-color: #ffffff;
 }
 .contacts-subtitle {
   font-weight: 500;
@@ -111,7 +110,9 @@ ul {
   text-align: center;
   color: #434455;
 }
-
+.contacts-item {
+  background-color: #ffffff;
+}
 .portfolio-titli {
   font-weight: 700;
   font-size: 36px;
