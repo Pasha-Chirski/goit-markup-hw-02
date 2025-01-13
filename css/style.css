@@ -68,6 +68,15 @@ ul {
   cursor: pointer;
   background-color: #4d5ae5;
 }
+.studio-btn:hover {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+.studio-btn:focus {
+  background-color: #404bbf;
+  color: #ffffff;
+}
+
 .section-subtitle {
   font-weight: 500;
   font-size: 20px;
