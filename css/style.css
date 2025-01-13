@@ -138,15 +138,7 @@ ul {
   letter-spacing: 0.02em;
   color: #f4f4fd;
 }
-.footer-logo-italic {
-  font-weight: 700;
-  font-size: 18px;
-  line-height: 1.17;
-  letter-spacing: 0.03em;
-  color: #f4f4fd;
-  width: 115px;
-  height: 24px;
-}
+
 .footer-logo {
   font-weight: 700;
   font-size: 18px;
@@ -155,4 +147,13 @@ ul {
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
   text-transform: uppercase;
+}
+.footer-logo-italic {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #f4f4fd;
+  width: 115px;
+  height: 24px;
 }
