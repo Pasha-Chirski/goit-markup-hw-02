@@ -107,10 +107,11 @@ ul {
 .portfolio-titli {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
 }
 .portfolio-subtitle {
   font-weight: 500;
@@ -126,10 +127,23 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.footer {
+  background-color: #2e2f42;
+}
+
 .footer-item-text {
   font-weight: 400;
   font-size: 16px;
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #f4f4fd;
+}
+.footer-logo-italic {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 1.17;
+  letter-spacing: 0.03em;
+  color: #f4f4fd;
+  width: 115px;
+  height: 24px;
 }
