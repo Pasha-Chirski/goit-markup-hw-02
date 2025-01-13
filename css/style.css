@@ -8,7 +8,7 @@ a {
   text-decoration: none;
 }
 ul {
-  text-decoration: none;
+  list-style-type: none;
 }
 .header-logo {
   font-weight: 700;
