@@ -13,16 +13,17 @@ ul {
 .header-logo {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: #4d5ae5;
   font-family: "Raleway", sans-serif;
+  text-transform: uppercase;
 }
 
 .header-logo-italic {
   font-weight: 700;
   font-size: 18px;
-  line-height: 1.16667;
+  line-height: 1.17;
   letter-spacing: 0.03em;
   color: #2e2f42;
   width: 115px;
@@ -34,6 +35,9 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #2e2f42;
+}
+.address {
+  font-style: normal;
 }
 .address-menu-link {
   font-weight: 400;
@@ -54,8 +58,7 @@ ul {
   color: #fff;
 }
 .studio-btn {
-  box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
-  background: #4d5ae5;
+  background-color: #4d5ae5;
   border: 1px solid #000;
   border-radius: 4px;
   padding: 16px 32px;
