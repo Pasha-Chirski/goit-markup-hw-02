@@ -66,6 +66,7 @@ ul {
   color: #fff;
   font-family: "Roboto", sans-serif;
   cursor: pointer;
+  background-color: #4d5ae5;
 }
 .section-subtitle {
   font-weight: 500;
@@ -81,13 +82,18 @@ ul {
   letter-spacing: 0.02em;
   color: #434455;
 }
+.contacts {
+  background-color: #f4f4fd;
+}
 .contacts-title {
   font-weight: 700;
   font-size: 36px;
-  line-height: 1.11111;
+  line-height: 1.11;
   letter-spacing: 0.02em;
   text-align: center;
   color: #2e2f42;
+  text-transform: capitalize;
+  background-color: #ffffff;
 }
 .contacts-subtitle {
   font-weight: 500;
