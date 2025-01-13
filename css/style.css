@@ -10,23 +10,6 @@ a {
 ul {
   text-decoration: none;
 }
-
-.header-menu-list .header-menu-item:first-child .header-menu-link {
-  transition: color 0.3s ease;
-}
-.header-menu-list .header-menu-item:first-child .header-menu-link:hover,
-.header-menu-list .header-menu-item:first-child .header-menu-link:focus {
-  color: #404bbf;
-}
-.header-menu-list .header-menu-item:nth-child(3) .header-menu-link:hover,
-.header-menu-list .header-menu-item:nth-child(3) .header-menu-link:focus {
-  color: #404bbf;
-}
-
-.header-menu-list .header-menu-item:nth-child(3) .header-menu-link {
-  transition: color 0.3s ease;
-}
-
 .header-logo {
   font-weight: 700;
   font-size: 18px;
@@ -53,6 +36,13 @@ ul {
   letter-spacing: 0.02em;
   color: #2e2f42;
 }
+.header-menu-link:hover {
+  color: #404bbf;
+}
+.header-menu-link:focus {
+  color: #404bbf;
+}
+
 .address {
   font-style: normal;
 }
@@ -62,6 +52,12 @@ ul {
   line-height: 1.5;
   letter-spacing: 0.02em;
   color: #434455;
+}
+.address-menu-link:hover {
+  color: #404bbf;
+}
+.address-menu-link:focus {
+  color: #404bbf;
 }
 .studio {
   background-color: #2e2f42;
